@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhatToWatch</string>
+    <string name="text">Введите название фильма</string>
+    <string name="button">Поиск похожих</string>
+    <string name="name1">name1</string>
+    <string name="name0">name0</string>
+    <string name="name2">name2</string>
+    <string name="name3">name3</string>
+    <string name="New">Уже смотрел</string>
+    <string name="filmName">Изменить фильм</string>
+    <string name="random">На удачу</string>
+</resources>
